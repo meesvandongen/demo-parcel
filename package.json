@@ -4,7 +4,6 @@
   "description": "",
   "source": "src/index.ts",
   "module": "./dist/index.mjs",
-  "main": "./dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "parcel build"
